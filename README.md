@@ -5,7 +5,7 @@ This Python-based experiment implements a probabilistic reinforcement learning t
 
 ## Features
 - Practice phase for participant familiarization
-- Two distinct experimental phases
+- Two distinct experimental phases (learning and extinction phase)
 - Real-time feedback and reward system
 - Participant data collection and management
 - Fullscreen visual stimulus presentation
